@@ -1,4 +1,4 @@
-functiion rotate_line
+function rotate_line
 {
     INTERVAL=1      # sleep time between "twirls"
     TCOUNT="0"      # for each TCOUNT the line twirls one increment
